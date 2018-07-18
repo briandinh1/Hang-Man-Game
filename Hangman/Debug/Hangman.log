@@ -1,0 +1,3 @@
+﻿  Hangman.cpp
+c:\users\brian\source\repos\hangman\hangman\hangman.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\brian\source\repos\hangman\hangman\hangman.cpp(35): warning C4018: '<': signed/unsigned mismatch
